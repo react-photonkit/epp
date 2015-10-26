@@ -11,6 +11,8 @@ Electron aPPlication
 - react-router
 - webpack
 
+![screenshot]
+
 
 ## Dev
 
@@ -36,3 +38,7 @@ $ npm run build-win  # win(32, 64)
 ## License
 
 MIT © react-photonkit
+
+
+
+[screenshot]: assets/screenshot.png
