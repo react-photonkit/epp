@@ -32,9 +32,9 @@
     "electron-debug": "^0.2.1",
     "history": "^1.12.3",
     "object-assign": "^4.0.1",
-    "react": "^0.14.0",
-    "react-dom": "^0.14.0",
-    "react-photonkit": "^0.3.1"
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1",
+    "react-photonkit": "^0.3.2"
   },
   "devDependencies": {
     "babel-core": "^5.8.25",
