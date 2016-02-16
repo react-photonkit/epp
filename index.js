@@ -34,10 +34,10 @@ function createMainWindow() {
 
 	const win = new BrowserWindow(opts);
 	if (process.env.DEV) {
-		win.loadURL('http://localhost:8000/dev.html');
+		win.loadUrl('http://localhost:8000/dev.html');
 		win.openDevTools();
 	} else {
-		win.loadURL(`file://${__dirname}/index.html`);
+		win.loadUrl(`file://${__dirname}/index.html`);
 	}
 	win.on('closed', onClosed);
 
