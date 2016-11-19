@@ -4,7 +4,7 @@
 
 const net = require('net');
 const path = require('path');
-const spawn = require('child_process').spawn;
+const spawn = require('win-spawn');
 const sleep = require('sleep').sleep;
 const config = require('./config');
 const win32 = process.platform === 'win32';
