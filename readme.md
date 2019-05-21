@@ -5,7 +5,7 @@
 Electron aPPlication
 
 - photon
-- coffeescrirpt (cjsx)
+- coffeescript (cjsx)
 - electron
 - react
 - react-router
